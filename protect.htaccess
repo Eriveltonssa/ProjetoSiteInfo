@@ -1,0 +1,5 @@
+ # .htaccess
+SetEnv HOST sql10.freesqldatabase.com
+SetEnv DB sql10666460
+SetEnv USER sql10666460
+SetEnv PASS Yzm98wQGb1
